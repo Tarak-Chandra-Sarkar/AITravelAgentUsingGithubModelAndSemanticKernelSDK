@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>e07d5ec3-a9b1-428f-9b27-02964194c3d1</UserSecretsId>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Compile Remove="Plugins\MusicConcertPlugin.cs" />
+    <Compile Remove="Plugins\MusicLibraryPlugin.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="9.0.1" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.33.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Plugins.Core" Version="1.33.0-alpha" />
+    <PackageReference Include="Microsoft.SemanticKernel.PromptTemplates.Handlebars" Version="1.33.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Plugins\ConvertCurrency\currencies.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
