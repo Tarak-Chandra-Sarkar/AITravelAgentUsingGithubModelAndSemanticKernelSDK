@@ -1,5 +1,5 @@
 ## AITravelAgentUsingGithubModelAndSemanticKernelSDK
-This repo is to explore the Semantic Kernel SDK and OpenAI Model using GitHib Models in 
+This repo is to explore the Semantic Kernel SDK and OpenAI Model using GitHib Models guided by 
 MS Learning as below:
 https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/
 
@@ -13,13 +13,13 @@ dotnet add package  Microsoft.SemanticKernel.Plugins.Core --version 1.33.0-alpha
 dotnet add package  Microsoft.SemanticKernel.PromptTemplates.Handlebars --version 1.33.0
 ```
 
-And build the project or solution:
+And build the project or rebuild the solution:
 ```bash
 dotnet build
 ```
 
-Also to run the above codebase need to create GitHub PAT Token and 
-save into local machine in Environment Variable using followong commands:
+To access the above GitHub Models, you need to create GitHub PAT Token and 
+set into local machine in Environment Variable using following commands:
 
 Generate a [GitHub Personal Access Token (PAT)](https://github.com/settings/tokens)
 ```bash
