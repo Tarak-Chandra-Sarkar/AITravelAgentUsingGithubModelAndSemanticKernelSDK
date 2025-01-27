@@ -1,7 +1,8 @@
 ﻿## AITravelAgentUsingGithubModelAndSemanticKernelSDK
-This project/repo is to explore the Semantic Kernel SDK and OpenAI/Supported Model using GitHub Models,
-following by MS Learning as below:
-https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/
+This project/repo is to explore the Semantic Kernel SDK and OpenAI/Supported Model using GitHub Models.\
+Most of the steps can be followed by MS Learning as below:
+
+[Guided project - Create an AI travel agent ](https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/)
 
 ### Setup and run the Codebase
 #### Recommended to use Visual Studio 2022 with .NET 9.0 SDK
@@ -18,9 +19,9 @@ dotnet add package  Microsoft.SemanticKernel.PromptTemplates.Handlebars --versio
 dotnet build
 ```
 
-3. To access the above [GitHub Marketplace Models](https://github.com/marketplace/models), you need to create 
-a GitHub PAT (Generate a [GitHub Personal Access Token (PAT)](https://github.com/settings/tokens)) Token 
-and Set in Environment Variable into local machine in  using following commands:
+3. To access the above [GitHub Models](https://github.com/marketplace/models), you need to create 
+a GitHub PAT (Generate a [GitHub Personal Access Token (PAT)](https://github.com/settings/tokens))\
+and Set in Environment Variable on local machine in  using commands as below:
 
 
 ```bash
