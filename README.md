@@ -1,4 +1,4 @@
-# AITravelAgentUsingGithubModelAndSemanticKernelSDK
+## AITravelAgentUsingGithubModelAndSemanticKernelSDK
 This repo is to explore the Semantic Kernel SDK and OpenAI Model using GitHib Models in 
 MS Learning as below:
 https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/
