@@ -1,8 +1,18 @@
-﻿## AITravelAgentUsingGithubModelAndSemanticKernelSDK
+﻿# AITravelAgentUsingGithubModelAndSemanticKernelSDK
 This project/repo is to explore the Semantic Kernel SDK and OpenAI/Supported Model using GitHub Models.\
 Most of the steps can be followed by MS Learning as below:
 
-[Guided project - Create an AI travel agent ](https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/)
+## [Guided project - Create an AI travel agent ](https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/)
+
+
+[![GitHub license](https://img.shields.io/github/license/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg)](https://github.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK/blob/master/LICENSE.txt)
+[![GitHub contributors](https://img.shields.io/github/contributors/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg?style=social&label=Watch)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK)
+[![GitHub forks](https://img.shields.io/github/forks/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg?style=social&label=Fork)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK.svg?style=social&label=Star)](https://GitHub.com/Tarak-Chandra-Sarkar/AITravelAgentUsingGithubModelAndSemanticKernelSDK/stargazers/)
 
 ### Setup and run the Codebase
 #### Recommended to use Visual Studio 2022 with .NET 9.0 SDK
